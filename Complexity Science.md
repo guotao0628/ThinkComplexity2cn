@@ -48,3 +48,5 @@
 式架构的桌面平台与Spring Boot（Cloud）微服务Web平台等进行整合实践。在Web/WebGIS服务整合大数据基础平台开发方面具有丰富经验。参与编写（译著）
 5部。详见Github: https://github.com/guotao0628/CS-RM-GIS-Book/blob/master/Books.md
 
+------------------------------------------------------------------------------
+
